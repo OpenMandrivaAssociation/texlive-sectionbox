@@ -60,6 +60,7 @@ derived classes.
 %doc %{_texmfdistdir}/doc/latex/sectionbox/example/sectionboxexample.bib
 %doc %{_texmfdistdir}/doc/latex/sectionbox/example/sectionboxexample.tex
 %doc %{_texmfdistdir}/doc/latex/sectionbox/sectionboxmanual.pdf
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -70,3 +71,5 @@ derived classes.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
