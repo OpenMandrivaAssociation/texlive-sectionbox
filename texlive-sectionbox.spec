@@ -6,7 +6,7 @@
 # catalog-version 1.01
 Name:		texlive-sectionbox
 Version:	1.01
-Release:	5
+Release:	6
 Summary:	Create fancy boxed ((sub)sub)sections
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sectionbox
