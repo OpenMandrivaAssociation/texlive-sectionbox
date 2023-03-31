@@ -1,6 +1,6 @@
 Name:		texlive-sectionbox
 Version:	37749
-Release:	1
+Release:	2
 Summary:	Create fancy boxed ((sub)sub)sections
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sectionbox
