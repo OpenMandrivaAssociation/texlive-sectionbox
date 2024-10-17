@@ -3,7 +3,7 @@ Version:	37749
 Release:	2
 Summary:	Create fancy boxed ((sub)sub)sections
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sectionbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sectionbox
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sectionbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sectionbox.doc.r%{version}.tar.xz
